@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dobject", "3dobject\3dobject.csproj", "{D990DA26-FC8D-492E-9B57-F9AEB4F65DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D990DA26-FC8D-492E-9B57-F9AEB4F65DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D990DA26-FC8D-492E-9B57-F9AEB4F65DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D990DA26-FC8D-492E-9B57-F9AEB4F65DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D990DA26-FC8D-492E-9B57-F9AEB4F65DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1021F974-C383-444B-B71D-516B6BDB403A}
+	EndGlobalSection
+EndGlobal
